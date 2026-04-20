@@ -2,7 +2,6 @@
 
 ## 👋 About Me
 2nd-year Computer Science student @ ISiMM, University of Monastir (Tunisia).  
-Preparing for Master's applications in Europe 
 
 ## 🎯 Current Focus
 - Learning Python and software development fundamentals
